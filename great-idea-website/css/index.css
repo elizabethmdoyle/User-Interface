@@ -64,3 +64,35 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+html {
+	font-size: 62.5%;
+}
+
+body {
+	padding-left: 10%;
+	padding-right: 10%;
+	align: center;
+
+}
+header {
+	align: center;
+}
+nav {
+	margin-top: 2rem;
+	align-items: center;
+
+}
+
+a {
+	color: #b5b5b5;
+	font-size: 1.6rem;
+	padding: 1rem;
+	
+}
+
+.logo {
+	background-image: url('img/logo.png');
+	background-repeat: no-repeat;
+	width: 200px;
+	height:75px;
+}
